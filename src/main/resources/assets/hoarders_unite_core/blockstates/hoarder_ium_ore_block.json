@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "hoarders_unite_core:block/hoarder_ium_ore_block"
+    }
+  }
+}

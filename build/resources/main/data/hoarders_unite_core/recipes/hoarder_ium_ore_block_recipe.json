@@ -1,0 +1,42 @@
+{
+  "group": "hoarders_unite_core",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "hoarders_unite_core:hoarder_ium_gem"
+    },
+    "1": {
+      "item": "hoarders_unite_core:hoarder_ium_gem"
+    },
+    "2": {
+      "item": "hoarders_unite_core:hoarder_ium_gem"
+    },
+    "3": {
+      "item": "hoarders_unite_core:hoarder_ium_gem"
+    },
+    "4": {
+      "item": "hoarders_unite_core:hoarder_ium_gem"
+    },
+    "5": {
+      "item": "hoarders_unite_core:hoarder_ium_gem"
+    },
+    "6": {
+      "item": "hoarders_unite_core:hoarder_ium_gem"
+    },
+    "7": {
+      "item": "hoarders_unite_core:hoarder_ium_gem"
+    },
+    "8": {
+      "item": "hoarders_unite_core:hoarder_ium_gem"
+    }
+  },
+  "result": {
+    "item": "hoarders_unite_core:hoarder_ium_ore_block",
+    "count": 1
+  }
+}

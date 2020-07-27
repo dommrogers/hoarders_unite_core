@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "hoarders_unite_core:items/hoarderium_gem"
+  }
+}

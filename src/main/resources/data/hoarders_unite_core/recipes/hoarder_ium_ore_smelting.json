@@ -1,0 +1,12 @@
+{
+  "group": "hoarders_unite_core",
+  "type": "minecraft:smelting",
+  "experience": 0.7,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "hoarders_unite_core:hoarder_ium_ore"
+  },
+  "result": {
+    "item": "hoarders_unite_core:hoarder_ium_gem"
+  }
+}

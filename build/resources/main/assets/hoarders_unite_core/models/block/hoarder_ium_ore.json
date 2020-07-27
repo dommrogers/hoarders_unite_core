@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "hoarders_unite_core:blocks/hoarderium_ore",
+    "particle": "hoarders_unite_core:blocks/hoarderium_ore"
+  }
+}

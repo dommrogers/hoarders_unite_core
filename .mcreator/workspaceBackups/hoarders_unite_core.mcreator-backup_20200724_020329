@@ -1,0 +1,85 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "HoarderIUMOre",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hoarder_ium_ore"
+    },
+    {
+      "name": "HoarderIUMOreBlock",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hoarder_ium_ore_block"
+    },
+    {
+      "name": "HoarderIUMGem",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hoarder_ium_gem"
+    },
+    {
+      "name": "HoarderIUMOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hoarder_ium_ore_block_recipe"
+    },
+    {
+      "name": "HoarderIUMBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hoarder_ium_block_ore_recipe"
+    },
+    {
+      "name": "HoarderIUMOreSmelting",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hoarder_ium_ore_smelting"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.hoarders_unite_core.hoarder_ium_gem": "HoarderIUM",
+      "block.hoarders_unite_core.hoarder_ium_ore": "HoarderIUM Ore",
+      "block.hoarders_unite_core.hoarder_ium_ore_block": "Block of HoarderIUM"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "hoarders_unite_core",
+    "modName": "Hoarders Unite Core",
+    "version": "1.0.0",
+    "author": "Dom, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mcreator.hoardersunitecore",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000322116
+}
